@@ -1,0 +1,51 @@
+{
+        "parsley" : {
+            "title" : "Parsley",
+            "description" : " Discover the vibrant flavor and nutritional benefits of our fresh parsley! Known for its bright green leaves and delicate aroma, parsley is a versatile herb that elevates the taste of countless dishes",
+            "flavor" : " Subtle, fresh, and slightly peppery.",
+            "uses" : "Uses: Perfect as a garnish, in salads, soups, sauces, marinades, and smoothies.",
+            "benefits" : "Rich in vitamins A, C, and K. A natural source of antioxidants. Supports digestion and overall wellness.",
+            "price" : "7",
+            "unit" : "bunch" ,
+            "img" : "images/greens/parsley.jpg",
+            "product_link" : "product.html?type=greens&product=parsley"
+        },
+
+        "watermelon" : {
+            "title" : "Watermelon",
+            "description" : "Discover the refreshing sweetness and hydrating benefits of our juicy watermelon! With its vibrant pink flesh and crisp, watery texture, watermelon is the perfect summer fruit that quenches your thirst and delights your taste buds.",
+            "flavor" : "Sweet, juicy, and mildly tangy.",
+            "use" : "Ideal for snacking, in fruit salads, smoothies, juices, or as a garnish. Great for grilling or serving chilled at picnics.",
+            "benefits": "Packed with vitamins A and C, essential for healthy skin and immune support. A natural source of hydration, as it’s made up of over 90% water. Rich in antioxidants, including lycopene, which supports heart health.",
+            "price" : "10",
+            "unit" : "kg" ,
+            "img" : "images/fruits/watermelon.webp",
+            "product_link" : "product.html?type=fruits&product=watermelon"
+        },
+
+        "bellpepper" : {
+            "title" : "Bell Pepper",
+            "description" : "Add a burst of color, crunch, and nutrition to your meals with our fresh bell peppers! With their vibrant hues and sweet, crisp flavor, bell peppers are a versatile vegetable that enhances the taste and visual appeal of any dish. ",
+            "flavor" : "Sweet, crunchy, and mildly tangy, with a hint of earthiness.",
+            "use" : " Perfect for salads, stir-fries, sandwiches, fajitas, and as a topping for pizzas. Also great for grilling, roasting, or stuffed with your favorite fillings.",
+            "benefits" : "High in vitamins A and C, promoting healthy vision and immune function. A rich source of antioxidants, including carotenoids like beta-carotene. Supports metabolism and skin health with its high fiber content.",
+            "price" : "7",
+            "unit" : "kg" ,
+            "img" : "images/vegetables/bellpepper.webp",
+            "product_link" : "product.html?type=vegetables&product=bellpepper"
+        },
+    
+        "mint" : {
+            "title" : "Mint",
+            "description" : "Experience the cool, refreshing taste and aromatic benefits of our fresh mint! Known for its invigorating flavor and fragrance, mint is a must-have herb that adds a burst of freshness to both savory and sweet dishes. ",
+            "flavor" : "Crisp, refreshing, and slightly sweet with a cool, minty finish.",
+            "use" : "Perfect in teas, cocktails (like mojitos), fruit salads, smoothies, desserts, or as a garnish. Adds a delightful touch to savory dishes like lamb or couscous.",
+            "benefits" : "Naturally supports digestion and soothes an upset stomach. Rich in antioxidants and anti-inflammatory properties. A good source of vitamins A and C, helping to promote skin health and immunity.",
+            "price" : "6",
+            "unit" : "bunch" ,
+            "img" : "images/greens/mint.webp",
+            "product_link" : "product.html?type=greens&product=mint"
+        }
+    
+
+}

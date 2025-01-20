@@ -1,0 +1,62 @@
+{
+    "watermelon" : {
+            "title" : "Watermelon",
+            "description" : "Discover the refreshing sweetness and hydrating benefits of our juicy watermelon! With its vibrant pink flesh and crisp, watery texture, watermelon is the perfect summer fruit that quenches your thirst and delights your taste buds.",
+            "flavor" : "Sweet, juicy, and mildly tangy.",
+            "use" : "Ideal for snacking, in fruit salads, smoothies, juices, or as a garnish. Great for grilling or serving chilled at picnics.",
+            "benefits": "Packed with vitamins A and C, essential for healthy skin and immune support. A natural source of hydration, as it’s made up of over 90% water. Rich in antioxidants, including lycopene, which supports heart health.",
+            "price" : "10",
+            "unit" : "kg" ,
+            "img" : "images/fruits/watermelon.webp",
+            "product_link" : "product.html?type=fruits&product=watermelon"
+        },
+
+        "apple" : {
+            "title" : "Apple",
+            "description" : "Savor the crisp, sweet, and refreshing taste of our fresh apples! With their wide variety of flavors and textures, apples are the perfect snack for any occasion, adding natural sweetness and crunch to your day.",
+            "flavor" : "Sweet, tart, and refreshing with a satisfying crunch.",
+            "use" : "Enjoy fresh as a snack, slice into salads, bake into pies, or blend into smoothies. Also perfect for juicing or making applesauce.",
+            "benefits" : "High in fiber, which promotes healthy digestion and keeps you feeling full. Rich in vitamin C, supporting a strong immune system. Packed with antioxidants, including flavonoids, which may help reduce the risk of chronic diseases.",
+            "price" : "14",
+            "offered_price" : "11",
+            "unit" : "kg" ,
+            "img" : "images/fruits/apple.jpg",
+            "product_link" : "product.html?product=apple&type=fruits"
+        },
+
+        "ananas" : {
+            "title" : "Ananas",
+            "description" : "Indulge in the tropical sweetness and refreshing tang of our fresh pineapples! With their vibrant yellow flesh and unique combination of sweet and sour flavors, pineapples are the perfect tropical treat that adds a burst of sunshine to any meal.",
+            "flavor" : " Sweet, tangy, and slightly tart with a juicy, tropical finish.",
+            "use" : "Perfect for fresh snacking, fruit salads, smoothies, and juices. Great for grilling, baking into desserts, or adding to savory dishes like salsas, stir-fries, and pizza.",
+            "benefits" : "    Packed with vitamin C, boosting immunity and promoting healthy skin. Rich in bromelain, an enzyme that supports digestion and reduces inflammation High in antioxidants, helping to protect against oxidative stress and supporting heart health.",
+            "price" : "100",
+            "unit" : "piece" ,
+            "img" : "images/fruits/ananas.webp",
+            "product_link" : "product.html?product=ananas&type=fruits"
+        },
+
+        "banana" : {
+            "title" : "Banana",
+            "description" : "Enjoy the creamy, naturally sweet flavor and energy-boosting benefits of our fresh bananas! With their smooth texture and vibrant yellow color, bananas are a go-to snack that provides a quick and nutritious boost any time of day.",
+            "flavor" : "Sweet, creamy, and subtly tangy.",
+            "use" : "Perfect for snacking, in smoothies, on cereal, or in baked goods like banana bread. Great for adding to fruit salads, oatmeal, or as a natural sweetener in desserts.",
+            "benefits" : "High in potassium, supporting heart health and muscle function. A great source of vitamin B6, promoting brain health and energy production. Rich in fiber, aiding digestion and helping to keep you feeling full.",
+            "price" : "40",
+            "unit" : "kg" ,
+            "img" : "images/fruits/banana.webp",
+            "product_link" : "product.html?product=banana&type=fruits"
+        },
+
+        "melon" : {
+            "title" : "Melon",
+            "description" : "Refresh yourself with the sweet, juicy goodness of our fresh melon! With its vibrant color and thirst-quenching texture, melon is the perfect fruit to cool you down on a hot day while satisfying your sweet tooth.",
+            "flavor" : " Sweet, juicy, and subtly floral with a refreshing crispness.",
+            "use" : " Perfect for snacking, fruit salads, smoothies, and juices. Great for grilling, as a garnish for desserts, or adding to sorbets and frozen treats.",
+            "benefits" : "High in water content, helping to keep you hydrated and refreshed. A rich source of vitamins A and C, supporting healthy skin, immunity, and eye health. Low in calories, making it a great choice for light, healthy snacking.",
+            "price" : "12",
+            "unit" : "kg" ,
+            "img" : "images/fruits/melon.jpg",
+            "product_link" : "product.html?product=melon&type=fruits"
+        }
+}

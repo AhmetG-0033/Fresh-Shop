@@ -1,0 +1,64 @@
+{
+    "parsley" : {
+        "title" : "Parsley",
+        "description" : " Discover the vibrant flavor and nutritional benefits of our fresh parsley! Known for its bright green leaves and delicate aroma, parsley is a versatile herb that elevates the taste of countless dishes",
+        "flavor" : " Subtle, fresh, and slightly peppery.",
+        "uses" : "Uses: Perfect as a garnish, in salads, soups, sauces, marinades, and smoothies.",
+        "benefits" : "Rich in vitamins A, C, and K. A natural source of antioxidants. Supports digestion and overall wellness.",
+        "price" : "7",
+        "unit" : "bunch" ,
+        "img" : "images/greens/parsley.jpg",
+        "product_link" : "product.html?type=greens&product=parsley"
+    },
+
+    "mint" : {
+        "title" : "Mint",
+        "description" : "Experience the cool, refreshing taste and aromatic benefits of our fresh mint! Known for its invigorating flavor and fragrance, mint is a must-have herb that adds a burst of freshness to both savory and sweet dishes. ",
+        "flavor" : "Crisp, refreshing, and slightly sweet with a cool, minty finish.",
+        "use" : "Perfect in teas, cocktails (like mojitos), fruit salads, smoothies, desserts, or as a garnish. Adds a delightful touch to savory dishes like lamb or couscous.",
+        "benefits" : "Naturally supports digestion and soothes an upset stomach. Rich in antioxidants and anti-inflammatory properties. A good source of vitamins A and C, helping to promote skin health and immunity.",
+        "price" : "6",
+        "unit" : "bunch" ,
+        "img" : "images/greens/mint.webp",
+        "product_link" : "product.html?type=greens&product=mint"
+    },
+
+    "arugula" : {
+        "title" : "Arugula",
+        "description" : "Elevate your meals with the bold, peppery flavor of our fresh arugula! Known for its distinct, zesty taste and vibrant green leaves, arugula adds a delightful kick to salads, sandwiches, and more.",
+        "flavor" : "Peppery, slightly bitter, and tangy with a refreshing finish.",
+        "use" : "Perfect for fresh salads, sandwiches, wraps, as a pizza topping, or blended into pesto. Also adds a spicy twist to soups and pasta dishes.",
+        "benefits" : "Rich in vitamins A, C, and K, supporting immune health, skin, and bone health. High in antioxidants, which help fight oxidative stress. Supports digestion and offers anti-inflammatory properties.",
+        "price" : "6",
+        "unit" : "bunch" ,
+        "img" : "images/greens/arugula.jpg",
+        "product_link" : "product.html?product=arugula&type=greens"
+    },
+
+    "lettuce" : {
+        "title" : "Lettuce",
+        "description" : "Add crisp freshness to every meal with our vibrant lettuce! With its light, crunchy texture and refreshing taste, lettuce is a versatile ingredient that brings life to salads, sandwiches, and so much more.",
+        "flavor" : " Mild, crisp, and refreshing.",
+        "use" : "Perfect for fresh salads, wraps, sandwiches, and burgers. Great as a base for bowls or as a crunchy garnish for soups and tacos.",
+        "benefits" : "Low in calories, making it a great choice for healthy, light meals. Rich in vitamins A and K, promoting healthy skin, vision, and bone strength. Hydrating and refreshing, with high water content to keep you feeling energize." ,
+        "price" : "15",
+        "offered_price" : "12",
+        "unit" : "piece" ,
+        "img" : "images/greens/lettuce.webp",
+        "product_link" : "product.html?product=lettuce&type=greens"
+    },
+
+    "spinach" : {
+        "title" : "Spinach",
+        "description" : "Fuel your body with the vibrant goodness of our fresh spinach! Known for its tender leaves and mild, earthy flavor, spinach is a nutrient-packed superfood that complements a wide variety of dishes.",
+        "flavor" : "Mild, slightly earthy, and subtly sweet.",
+        "use" : "Perfect for salads, smoothies, soups, omelets, pasta, or as a side dish. Delicious fresh or sautéed, and an excellent addition to casseroles and wraps.",  
+        "benefits" : "A powerhouse of vitamins A, C, and K, supporting vision, immunity, and bone health. Rich in iron, helping to maintain energy and support red blood cell production. Loaded with antioxidants and essential minerals like magnesium and potassium.",
+        "price" : "15",
+        "unit" : "bunch" ,
+        "img" : "images/greens/spinach.webp",
+        "product_link" : "product.html?product=spinach&type=greens"
+    }
+
+
+}

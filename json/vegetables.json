@@ -1,0 +1,63 @@
+{
+    "aubergine" : {
+        "title" : "Watermelon",
+        "description" : "Discover the refreshing sweetness and hydrating benefits of our juicy watermelon! With its vibrant pink flesh and crisp, watery texture, watermelon is the perfect summer fruit that quenches your thirst and delights your taste buds.",
+        "flavor" : "Mild, earthy, and slightly smoky when cooked, with a creamy texture.",
+        "use" : "Perfect for grilling, roasting, stir-fries, or in curries, casseroles, and salads. Ideal for making baba ganoush, eggplant parmesan, or as a hearty vegetarian filling.",
+        "benefits" : "Packed with fiber, which supports digestive health. Rich in antioxidants like nasunin, which helps protect cells from damage. A good source of vitamins B1, B6, and potassium, promoting heart and brain health.",
+        "price" : "15",
+        "unit" : "kg" ,
+        "img" : "images/fruits/watermelon.webp",
+        "product_link" : "product.html?product=watermelon&type=fruits"
+    },
+
+    "bellpepper" : {
+        "title" : "Bell Pepper",
+        "description" : "Add a burst of color, crunch, and nutrition to your meals with our fresh bell peppers! With their vibrant hues and sweet, crisp flavor, bell peppers are a versatile vegetable that enhances the taste and visual appeal of any dish. ",
+        "flavor" : "Sweet, crunchy, and mildly tangy, with a hint of earthiness.",
+        "use" : " Perfect for salads, stir-fries, sandwiches, fajitas, and as a topping for pizzas. Also great for grilling, roasting, or stuffed with your favorite fillings.",
+        "benefits" : "High in vitamins A and C, promoting healthy vision and immune function. A rich source of antioxidants, including carotenoids like beta-carotene. Supports metabolism and skin health with its high fiber content.",
+        "price" : "7",
+        "unit" : "kg" ,
+        "img" : "images/vegetables/bellpepper.webp",
+        "product_link" : "product.html?type=vegetables&product=bellpepper"
+    },
+
+    "tomato" : {
+        "title" : "Tomato",
+        "description" : "Brighten your meals with the juicy, vibrant flavor of our fresh tomatoes! Bursting with natural sweetness and a hint of tang, tomatoes are a kitchen staple that elevates any dish with their bold color and taste.",
+        "flavor" : "Juicy, sweet, and slightly tangy.",
+        "use" : "Perfect for salads, sandwiches, and salsas. Ideal for making sauces, soups, and stews, or enjoyed fresh as a snack. Great for roasting, grilling, or blending into smoothies and juices.",
+        "benefits" : "A rich source of vitamins C and K, supporting immunity and bone health. Packed with lycopene, a powerful antioxidant that promotes heart health. Low in calories and high in hydration, making it a refreshing addition to any meal.",
+        "price" : "10",
+        "unit" : "kg" ,
+        "img" : "images/vegetables/tomato.jpg",
+        "product_link" : "product.html?product=tomato&type=vegetables"
+    },
+
+    "onion" : {
+        "title" : "Apple",
+        "description" : "Bring bold flavor and aromatic depth to your dishes with our fresh onions! Known for their versatility and rich, savory taste, onions are a kitchen essential that enhances a wide range of cuisines.",
+        "flavor" : "Sharp and tangy when raw, sweet and mellow when cooked.",
+        "use" : "Perfect for salads, sandwiches, soups, and stir-fries. Ideal for caramelizing, roasting, or adding to marinades, sauces, and stews. A must-have in savory dishes from around the world.",
+        "benefits" : "Rich in antioxidants like quercetin, supporting heart health and reducing inflammation. A good source of vitamin C to boost immunity and promote healthy skin. Contains natural compounds that support digestion and overall wellness.",
+        "price" : "12",
+        "unit" : "kg" ,
+        "img" : "images/vegetables/onion.webp",
+        "product_link" : "product.html?product=onion&type=vegetables"
+    },
+
+    "zuchhini" : {
+        "title" : "Apple",
+        "description" : "Discover the light, tender flavor and endless versatility of our fresh zucchini! With its mild taste and soft texture, zucchini is a perfect addition to both savory and sweet dishes, making healthy cooking a breeze.",
+        "flavor" : "Mild, slightly sweet, and earthy.",
+        "use" : "Perfect for grilling, sautéing, roasting, or spiralizing into 'zoodles'. Delicious in casseroles, soups, stir-fries, and baked goods like zucchini bread. Enjoy raw in salads or as a crunchy snack with dips.",
+        "benefits" : "Low in calories and rich in hydration, making it ideal for healthy meals. Packed with vitamins A and C, supporting skin, vision, and immunity. A good source of potassium and antioxidants, promoting heart health and reducing inflammation.",
+        "price" : "17",
+        "unit" : "kg" ,
+        "img" : "images/vegetables/zucchini.jpg",
+        "product_link" : "product.html?product=zuuchini&type=vegetables"
+    }
+
+
+}

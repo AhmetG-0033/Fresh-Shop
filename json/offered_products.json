@@ -1,0 +1,55 @@
+{
+    "arugula" : {
+        "title" : "Arugula",
+        "description" : "Elevate your meals with the bold, peppery flavor of our fresh arugula! Known for its distinct, zesty taste and vibrant green leaves, arugula adds a delightful kick to salads, sandwiches, and more.",
+        "flavor" : "Peppery, slightly bitter, and tangy with a refreshing finish.",
+        "use" : "Perfect for fresh salads, sandwiches, wraps, as a pizza topping, or blended into pesto. Also adds a spicy twist to soups and pasta dishes.",
+        "benefits" : "Rich in vitamins A, C, and K, supporting immune health, skin, and bone health. High in antioxidants, which help fight oxidative stress. Supports digestion and offers anti-inflammatory properties.",
+        "price" : "6",
+        "offered_price" : "4",
+        "unit" : "bunch" ,
+        "img" : "images/greens/arugula.jpg",
+        "product_link" : "product.html?product=arugula&type=greens"
+    },
+
+    "aubergine" : {
+        "title" : "Watermelon",
+        "description" : "Discover the refreshing sweetness and hydrating benefits of our juicy watermelon! With its vibrant pink flesh and crisp, watery texture, watermelon is the perfect summer fruit that quenches your thirst and delights your taste buds.",
+        "flavor" : "Mild, earthy, and slightly smoky when cooked, with a creamy texture.",
+        "use" : "Perfect for grilling, roasting, stir-fries, or in curries, casseroles, and salads. Ideal for making baba ganoush, eggplant parmesan, or as a hearty vegetarian filling.",
+        "benefits" : "Packed with fiber, which supports digestive health. Rich in antioxidants like nasunin, which helps protect cells from damage. A good source of vitamins B1, B6, and potassium, promoting heart and brain health.",
+        "price" : "15",
+        "offered_price" : "13",
+        "unit" : "kg" ,
+        "img" : "images/fruits/watermelon.webp",
+        "product_link" : "product.html?product=watermelon&type=fruits"
+    },
+
+    "lettuce" : {
+        "title" : "Lettuce",
+        "description" : "Add crisp freshness to every meal with our vibrant lettuce! With its light, crunchy texture and refreshing taste, lettuce is a versatile ingredient that brings life to salads, sandwiches, and so much more.",
+        "flavor" : " Mild, crisp, and refreshing.",
+        "use" : "Perfect for fresh salads, wraps, sandwiches, and burgers. Great as a base for bowls or as a crunchy garnish for soups and tacos.",
+        "benefits" : "Low in calories, making it a great choice for healthy, light meals. Rich in vitamins A and K, promoting healthy skin, vision, and bone strength. Hydrating and refreshing, with high water content to keep you feeling energize." ,
+        "price" : "15",
+        "offered_price" : "12",
+        "unit" : "piece" ,
+        "img" : "images/greens/lettuce.webp",
+        "product_link" : "product.html?product=lettuce&type=greens"
+    },
+
+    "apple" : {
+        "title" : "Apple",
+        "description" : "Savor the crisp, sweet, and refreshing taste of our fresh apples! With their wide variety of flavors and textures, apples are the perfect snack for any occasion, adding natural sweetness and crunch to your day.",
+        "flavor" : "Sweet, tart, and refreshing with a satisfying crunch.",
+        "use" : "Enjoy fresh as a snack, slice into salads, bake into pies, or blend into smoothies. Also perfect for juicing or making applesauce.",
+        "benefits" : "High in fiber, which promotes healthy digestion and keeps you feeling full. Rich in vitamin C, supporting a strong immune system. Packed with antioxidants, including flavonoids, which may help reduce the risk of chronic diseases.",
+        "price" : "14",
+        "offered_price" : "11",
+        "unit" : "kg" ,
+        "img" : "images/fruits/apple.jpg",
+        "product_link" : "product.html?product=apple&type=fruits"
+    }
+
+
+}

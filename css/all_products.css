@@ -1,0 +1,159 @@
+
+/* RESET */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: clip;
+    text-decoration: none;
+    font-family: monospace;
+    scroll-behavior: smooth ;
+
+}
+
+a{
+    color: inherit;
+}
+
+body{
+    position: relative;
+    background-color: color-mix(in srgb, var(--primary-color) 25%, white )
+}
+
+/* RESET */
+
+
+
+/* VARIABLES */
+:root{
+    --primary-color: #87A922;
+    --secondary-color: #f7f6bb; 
+    --primary-heading-color : #FCDC2A;
+    --secondary-heading-color: #114232;
+}
+/* VARIABLES */
+
+
+.lower-title{
+    text-align: center;
+    font-size: clamp(2rem, 4.2dvw , 4.7rem);
+    font-weight: lighter;
+    color: var(--primary-heading-color);
+    position: relative;
+    text-shadow: -3px 1px var(--primary-color);
+
+}
+
+.upper-title{
+    text-align: center;
+    font-size: clamp(1.5rem, 2.5dvw , 3.5rem);
+    font-weight: lighter;
+    color: var(--secondary-heading-color);
+}
+
+
+.products-section{
+    width: 100dvw;
+    height: 100dvh;
+    padding: clamp(10px,3dvh,50px) clamp(10px,5dvw,50px);
+}
+
+
+.container{
+    display: grid;
+    gap: 30px;
+    grid-template-columns: repeat(auto-fit, minmax(250px,1fr));
+    width: auto;
+    padding: 2rem;
+    scroll-margin-inline: 4rem;
+}
+
+
+.search-tools{
+    width: 100%;
+    padding: 2rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.filters select{
+    border: none;
+    background-color: color-mix(in srgb, var(--primary-color) 70%, transparent);
+    padding: .8em .5em;
+    border-radius: 0;
+}
+
+.searchbar{
+    padding-inline:1em;
+}
+.searchbar input{
+    padding: .8em .5em;
+    padding-right: 3em;
+}
+
+.searchbar input:focus{
+    outline: 2px solid var(--primary-color);
+}
+
+.card{
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    outline-offset: -8px;
+    outline: black dashed 2px;
+    position: relative;
+    overflow: hidden;
+}
+
+.card-img{
+    height: 100%;
+    width: 100%;
+}
+
+.card::after {
+    content: '';
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    inset: 0;
+    background: linear-gradient(360deg, var(--primary-color) 70%, transparent);
+    transform: translateY(400px);
+    transition: transform .6s ease; 
+    mix-blend-mode: multiply;
+}
+
+.card:hover::after {
+    transform: translateY(0);
+}
+
+.card:hover .card-info{
+    opacity: 1;
+    transition: opacity .6s ease;
+    
+}
+
+.card-info{
+    position: absolute;
+    bottom: 2rem;
+    left: 2rem;
+    font-size: 1.5rem;
+    text-shadow: -2px 1px var(--secondary-color);
+    z-index: 5;
+    opacity: 0;
+}
+
+.pagination-list{
+    display: flex;
+}   
+
+.pagination-list li{
+    display: flex;
+    margin-inline: .2rem;
+    margin-block:3rem;
+    padding: 1.2rem 1.8rem; 
+    background-color: var(--primary-color);
+    font-size: 1.5rem;
+    display: grid;
+    place-content: center;
+}
